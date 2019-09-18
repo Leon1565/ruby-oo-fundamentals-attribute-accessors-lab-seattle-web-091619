@@ -7,4 +7,3 @@ class Cat
   end
 end
 
-Cat.cat_name

@@ -6,4 +6,3 @@ class Cat
     puts "meow!"
   end
 end
-Cat.cat_name = "Tiger"
